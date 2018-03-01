@@ -13,4 +13,6 @@ by default, the video plays in 720p. To change it, in the iframe tag in index.ht
 
 Change the headings to your community's discord and name (or delete if you don't want it there)
 
-Open to edit
+Open to edit -- 
+
+Original Post and better instructions here -> https://forum.fivem.net/t/release-fullscreen-youtube-loading-screen/86091 
