@@ -5,6 +5,7 @@ files {
     'keks.css',
     'centurygothic.ttf',
     'backup.jpg',
+    'config.js'
 }
 
 loadscreen 'index.html'
