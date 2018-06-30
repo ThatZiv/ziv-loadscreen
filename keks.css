@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+* {
+ font-family: 'Roboto', sans-serif;  
+}
+
+
 body
 {
     margin: 0px;
@@ -36,15 +42,13 @@ iframe {
 }
 
 p {
-    font-family: "Century Gothic", CenturyGothic, AppleGothic;
-    src: url('centurygothic.ttf') format('truetype');
+
     font-size: 63px;
 }
 
 
 @font-face {
-    font-family: "Century Gothic", CenturyGothic, AppleGothic;
-    src: url('centurygothic.ttf') format('truetype');
+
     font-weight: normal;
     font-style: normal;
 }
@@ -75,8 +79,7 @@ h1:before, h2:before {
 
     color: #fff;
 
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    src: url('centurygothic.ttf') format('truetype');
+
 }
 
 .letni p
@@ -88,18 +91,6 @@ h1:before, h2:before {
     margin-top: 0px;
 }
 
-.letni h2, .letni h3
-{
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-
-    text-transform: uppercase;
-
-    font-size: 50px;
-
-    margin: 0px;
-
-    display: inline-block;
-}
 
 .top
 {
@@ -113,7 +104,7 @@ h1:before, h2:before {
 
 .top h1
 {
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+
     font-size: 60px;
 
     margin: 0px;
@@ -121,22 +112,12 @@ h1:before, h2:before {
 
 .top h2
 {
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+ 
     font-size: 40px;
 
     margin: 0px;
 
     color: rgb(255, 255, 255);
-}
-
-.thingy
-{
-    width: 10%;
-    background-color: #eee;
-    height: 20px;
-
-    position: absolute;
-    left: 10%;
 }
 
 #bottom_nav {
